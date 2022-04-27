@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "2QN-fL-3VD"; */
+"2QN-fL-3VD.text" = "Price";
+
+/* Class = "UITextField"; text = "Description:"; ObjectID = "3SD-dp-hm6"; */
+"3SD-dp-hm6.text" = "Description:";
+
+/* Class = "UILabel"; text = "Hollywood Walk of Fame"; ObjectID = "LdW-1L-65A"; */
+"LdW-1L-65A.text" = "Hollywood Walk of Fame";
+
+/* Class = "UIButton"; normalTitle = " View Site"; ObjectID = "NRh-5k-qj1"; */
+"NRh-5k-qj1.normalTitle" = " View Site";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "OhO-Wr-Dt5"; */
+"OhO-Wr-Dt5.text" = "Description";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "Pts-KM-S33"; */
+"Pts-KM-S33.text" = "Address";
+
+/* Class = "UILabel"; text = "Phone Number"; ObjectID = "RG3-sT-HK0"; */
+"RG3-sT-HK0.text" = "Phone Number";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "SGd-OP-glH"; */
+"SGd-OP-glH.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Website"; ObjectID = "bE5-i0-h3n"; */
+"bE5-i0-h3n.text" = "Website";
