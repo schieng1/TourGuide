@@ -10,4 +10,4 @@ Within the main storyboard, it is using an array to contain all of the relative 
 
 # Running it
 
-### Download the lastest edition of Xcode and upload project
+### Download the latest edition of Xcode and upload project
